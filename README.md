@@ -1,5 +1,7 @@
 # GFPack++: Attention-Driven Gradient Fields for Optimizing 2D Irregular Packing
 
+> 本仓库新增的Dental论文复现入口、严格零交叠验收及已声明的重建细节，见[复现说明](docs/REPRODUCTION.md)。官方原始`src/`和C++源码保持不变；新增代码在`reproduce/`，没有接入round8或旧项目算法。
+
 > Published at ICCV 2025, International Conference on Computer Vision.
 
 ![Teaser](assets/teaser.jpg)
